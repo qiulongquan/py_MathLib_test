@@ -1,7 +1,7 @@
-python平台
+python骞冲彴
 
-	numpy
-	pandas
-	matplotlib
-	库的使用方法 sample
+numpy
+pandas
+matplotlib
+搴撶殑浣跨敤鏂规硶 sample
 	
